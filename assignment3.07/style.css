@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(117, 163, 164);
+    font-family:monospace;
+  }
+p {
+    color:ghostwhite;
+    font-family:monospace;
+  }
+  h4 {
+    color:bisque;
+    font-family:monospace;
+    ;
+  }
+  h5 {
+    color:black;
+    font-family:monospace;
+    background-color: aliceblue;
+  }
+ 
